@@ -1,11 +1,2 @@
-# Treat XML files as code
-*.xml linguist-language=XML
-*.xml linguist-detectable=true
-
-# Treat TOML files as code
-*.toml linguist-language=TOML
-*.toml linguist-detectable=true
-
-# Treat ORCHID files as a custom language
-*.orchid linguist-language=Orchid
+*.orchid linguist-language=XML
 *.orchid linguist-detectable=true
